@@ -56,14 +56,6 @@ Game Dreamer • Digital Artist • Developer in Progress
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrypMonete&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrypMonete&layout=compact)
-
----
-
 ### 💌 Contact
 
 - GitHub: @KrypMonete  
